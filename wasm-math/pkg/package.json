@@ -1,0 +1,16 @@
+{
+  "name": "wasm-math",
+  "collaborators": [
+    "Rafael dos Santos Silva <xfalcox@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "wasm_math_bg.wasm",
+    "wasm_math.js",
+    "wasm_math_bg.js",
+    "wasm_math.d.ts"
+  ],
+  "module": "wasm_math.js",
+  "types": "wasm_math.d.ts",
+  "sideEffects": false
+}

@@ -1,0 +1,9 @@
+{
+  "about_url": null,
+  "license_url": null,
+  "assets": {
+    "wasm_math_bg": "/assets/wasm_math_bg.wasm"
+  },
+  "name": "discourse-wasm-math",
+  "component": true
+}
